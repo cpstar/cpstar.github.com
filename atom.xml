@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://page.cpstar.cn</id>
+    <title>中原之星★记录西皮星</title>
+    <updated>2020-07-29T12:45:23.285Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://page.cpstar.cn"/>
+    <link rel="self" href="https://page.cpstar.cn/atom.xml"/>
+    <subtitle>记录Central Plain Star</subtitle>
+    <logo>https://page.cpstar.cn/images/avatar.png</logo>
+    <icon>https://page.cpstar.cn/favicon.ico</icon>
+    <rights>All rights reserved 2020, 中原之星★记录西皮星</rights>
+    <entry>
+        <title type="html"><![CDATA[低代码/无代码的一些想法]]></title>
+        <id>https://page.cpstar.cn/post/di-dai-ma-wu-dai-ma-de-yi-xie-xiang-fa/</id>
+        <link href="https://page.cpstar.cn/post/di-dai-ma-wu-dai-ma-de-yi-xie-xiang-fa/">
+        </link>
+        <updated>2020-07-26T02:19:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>逛V站看到一篇帖子讨论低代码/无代码跟程序员的关系，大概想了想现在自己正在干的事情</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>逛V站看到一篇帖子讨论低代码/无代码跟程序员的关系，大概想了想现在自己正在干的事情</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[效率低下，是既有线的自带属性么？]]></title>
+        <id>https://page.cpstar.cn/post/xiao-lu-di-xia-shi-ji-you-xian-de-zi-dai-shu-xing-me/</id>
+        <link href="https://page.cpstar.cn/post/xiao-lu-di-xia-shi-ji-you-xian-de-zi-dai-shu-xing-me/">
+        </link>
+        <updated>2020-03-10T10:28:54.000Z</updated>
+        <summary type="html"><![CDATA[<p>刚才逛轨道交通论坛，提到北京东到北京站这段的瓶颈导致市郊列车除了到副中心的只能卡到通州，因为既有线的占用无法释放。然后我写了一个回复提到了曾经的规划，当然一不小心把北京站这个典型的既有线车站地下的效率聊了聊。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>刚才逛轨道交通论坛，提到北京东到北京站这段的瓶颈导致市郊列车除了到副中心的只能卡到通州，因为既有线的占用无法释放。然后我写了一个回复提到了曾经的规划，当然一不小心把北京站这个典型的既有线车站地下的效率聊了聊。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做一回码农梦想的Hacker]]></title>
+        <id>https://page.cpstar.cn/post/zuo-yi-hui-ma-nong-meng-xiang-de-hacker/</id>
+        <link href="https://page.cpstar.cn/post/zuo-yi-hui-ma-nong-meng-xiang-de-hacker/">
+        </link>
+        <updated>2020-02-29T03:58:11.000Z</updated>
+        <summary type="html"><![CDATA[<p><em>题图来自网络搜索</em></p>
+<p>每个码农应该都有一个梦想，面对黑底绿字的屏幕，手指飞快地敲下每一个按键，随着进度条的加载，系统被攻破——电影里都这么演。但回到现实中，虽然黑底绿字的屏幕还在，键盘的敲动可能会是时有时无，但是那个进度条对应的是compile进程，除了WARN甚至还会有ERROR，而且恐怕很少有人会对着二进制代码进行修改，汇编语言、BINARY已经是上古时期的东西了。于是，这种很底层的活儿，对码农来讲，是一个梦想，也是一个笑谈，虽然觉得很高深，但也觉得没必要。真的么？</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><em>题图来自网络搜索</em></p>
+<p>每个码农应该都有一个梦想，面对黑底绿字的屏幕，手指飞快地敲下每一个按键，随着进度条的加载，系统被攻破——电影里都这么演。但回到现实中，虽然黑底绿字的屏幕还在，键盘的敲动可能会是时有时无，但是那个进度条对应的是compile进程，除了WARN甚至还会有ERROR，而且恐怕很少有人会对着二进制代码进行修改，汇编语言、BINARY已经是上古时期的东西了。于是，这种很底层的活儿，对码农来讲，是一个梦想，也是一个笑谈，虽然觉得很高深，但也觉得没必要。真的么？</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搞一个铁路信号进路调度游戏？]]></title>
+        <id>https://page.cpstar.cn/post/gao-yi-ge-tie-lu-xin-hao-jin-lu-diao-du-you-xi/</id>
+        <link href="https://page.cpstar.cn/post/gao-yi-ge-tie-lu-xin-hao-jin-lu-diao-du-you-xi/">
+        </link>
+        <updated>2019-11-18T15:13:15.000Z</updated>
+        <summary type="html"><![CDATA[<p><em>题图来自网络搜索</em></p>
+<p>突然有个想法，参照航空管制官，搞个车站调度员，从单线中间站搞到郑州、北京西这种大枢纽，再加点因事故导致的运行图大乱，各种任务，一关关过关，如何？</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><em>题图来自网络搜索</em></p>
+<p>突然有个想法，参照航空管制官，搞个车站调度员，从单线中间站搞到郑州、北京西这种大枢纽，再加点因事故导致的运行图大乱，各种任务，一关关过关，如何？</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何处理Windows下的CUDA和人脸识别]]></title>
+        <id>https://page.cpstar.cn/post/ru-he-chu-li-windows-xia-de-cuda-he-ren-lian-shi-bie/</id>
+        <link href="https://page.cpstar.cn/post/ru-he-chu-li-windows-xia-de-cuda-he-ren-lian-shi-bie/">
+        </link>
+        <updated>2019-11-15T08:10:17.000Z</updated>
+        <summary type="html"><![CDATA[<p>想在Windows体系下好好开发，那第一件事情建立环境，而这个环境，你来告诉我微软家的体系，应该用谁家提供的环境？Visual Studio搞起吧！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>想在Windows体系下好好开发，那第一件事情建立环境，而这个环境，你来告诉我微软家的体系，应该用谁家提供的环境？Visual Studio搞起吧！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自己制作一个华硕AC68U路由器的脚本]]></title>
+        <id>https://page.cpstar.cn/post/zi-ji-zhi-zuo-yi-ge-hua-shuo-ac68u-lu-you-qi-de-jiao-ben/</id>
+        <link href="https://page.cpstar.cn/post/zi-ji-zhi-zuo-yi-ge-hua-shuo-ac68u-lu-you-qi-de-jiao-ben/">
+        </link>
+        <updated>2019-06-29T13:03:12.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊聊中国铁路机车车辆编号]]></title>
+        <id>https://page.cpstar.cn/post/liao-liao-zhong-guo-tie-lu-ji-che-che-liang-bian-hao/</id>
+        <link href="https://page.cpstar.cn/post/liao-liao-zhong-guo-tie-lu-ji-che-che-liang-bian-hao/">
+        </link>
+        <updated>2019-06-25T02:00:26.000Z</updated>
+        <summary type="html"><![CDATA[<p>按：本人不才，非营销广告专业人士，亦非铁路装备专业人士，存粹一个车迷，还是伪的（不痿），只是作为处女座（还是伪的），当下这奇葩之编号实在无法忍受，故抒发己见，作为茶前饭后谈资。（题图来自[@1435mm的距离]{https://weibo.com/StandardGauge} ，感谢）</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>按：本人不才，非营销广告专业人士，亦非铁路装备专业人士，存粹一个车迷，还是伪的（不痿），只是作为处女座（还是伪的），当下这奇葩之编号实在无法忍受，故抒发己见，作为茶前饭后谈资。（题图来自[@1435mm的距离]{https://weibo.com/StandardGauge} ，感谢）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国为什么不发展高铁？]]></title>
+        <id>https://page.cpstar.cn/post/mei-guo-wei-shi-me-bu-fa-zhan-gao-tie/</id>
+        <link href="https://page.cpstar.cn/post/mei-guo-wei-shi-me-bu-fa-zhan-gao-tie/">
+        </link>
+        <updated>2019-06-25T01:41:54.000Z</updated>
+        <summary type="html"><![CDATA[<p>原发表于知乎回答，链接为：<a href="https://www.zhihu.com/question/323158566/answer/676192264">美国为什么不发展高铁？</a>，题图来自<a href="https://weibo.com/StandardGauge">@1435mm的距离</a></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>原发表于知乎回答，链接为：<a href="https://www.zhihu.com/question/323158566/answer/676192264">美国为什么不发展高铁？</a>，题图来自<a href="https://weibo.com/StandardGauge">@1435mm的距离</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://page.cpstar.cn/post/hello-gridea/</id>
+        <link href="https://page.cpstar.cn/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
