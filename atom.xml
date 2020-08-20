@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://page.cpstar.cn</id>
     <title>中原之星★记录西皮星</title>
-    <updated>2020-07-29T12:45:23.285Z</updated>
+    <updated>2020-08-20T07:14:16.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://page.cpstar.cn"/>
     <link rel="self" href="https://page.cpstar.cn/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://page.cpstar.cn/images/avatar.png</logo>
     <icon>https://page.cpstar.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, 中原之星★记录西皮星</rights>
+    <entry>
+        <title type="html"><![CDATA[用“降维打击”攻克信息化]]></title>
+        <id>https://page.cpstar.cn/post/yong-jiang-wei-da-ji-gong-ke-xin-xi-hua/</id>
+        <link href="https://page.cpstar.cn/post/yong-jiang-wei-da-ji-gong-ke-xin-xi-hua/">
+        </link>
+        <updated>2020-08-20T02:10:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>“降维打击”，源自《三体》，这么一个科幻词汇，伴随互联网的传播，已经只存在于科幻领域。领会其内在含义，将它推而广之到信息化领域，恰恰就是做信息化所应该秉持的原则，信息化重点在“化”，而“化”则是变化、转化，没有变化没有转化，那无从谈起信息化</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>“降维打击”，源自《三体》，这么一个科幻词汇，伴随互联网的传播，已经只存在于科幻领域。领会其内在含义，将它推而广之到信息化领域，恰恰就是做信息化所应该秉持的原则，信息化重点在“化”，而“化”则是变化、转化，没有变化没有转化，那无从谈起信息化</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[低代码/无代码的一些想法]]></title>
         <id>https://page.cpstar.cn/post/di-dai-ma-wu-dai-ma-de-yi-xie-xiang-fa/</id>
